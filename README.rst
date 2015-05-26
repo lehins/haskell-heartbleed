@@ -9,9 +9,9 @@ This program depends on a couple packages, besides GHC of course:
 * `Options <http://hackage.haskell.org/package/options>`_ - for argument parsing
 * `Repa <http://hackage.haskell.org/package/repa>`_ - for searching through
 memory chunks in parallel.
-* `tls (customized) <https://github.com/lehins/hs-tls>`_ - version of `tls
-  <http://hackage.haskell.org/package/tls>`_ library with hearbeat feature added
-  to it.
+* `tls (customized) <https://github.com/lehins/hs-tls>`_ - version of
+`tls <http://hackage.haskell.org/package/tls>`_ library with hearbeat feature added
+to it.
 
 Here is installation and compilation instructions (llvm is required for Repa):
 
